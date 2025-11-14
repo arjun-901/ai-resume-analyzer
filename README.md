@@ -1,3 +1,4 @@
+Author - Arjun Maurya 
 
 # AI Resume Analyzer - Database & API Summary
 
